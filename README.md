@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Archit Verma</h1>
 <h3 align="center">Software Wizard in making</h3>
+[![Archit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Architv27)](https://github.com/Architv27/github-readme-stats)
 
 - 📫 How to reach me **archit.sfu@gmail.com** or **varchit@sfu.ca**
 
