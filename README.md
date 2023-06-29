@@ -33,6 +33,6 @@
 <a href="https://en.wikipedia.org/wiki/X86_assembly_language" target="_blank"> <img src="https://www.vectorlogo.zone/logos/intel/intel-icon.svg" alt="x86" width="40" height="40"/> </a>
 <a href="https://en.wikipedia.org/wiki/WebGL" target="_blank"> <img src="https://en.wikipedia.org/wiki/File:WebGL_Logo.svg" alt="webgl" width="40" height="40"/> </a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Architv27&show_icons=true&theme=dark&locale=en&layout=compact" alt="Architv27" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Architv27&show_icons=true&theme=dark&locale=en&layout=compact" alt="Architv27" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Architv27&show_icons=true&theme=dark&locale=en" alt="Architv27" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Architv27&show_icons=true&theme=dark&locale=en" alt="Architv27" /></p>-->
