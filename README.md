@@ -4,20 +4,6 @@
 - 📫 How to reach me **archit.sfu@gmail.com** or **varchit@sfu.ca**
 
 <h3 align="left">Connect with me:</h3>
-<style>
-    .icon:hover {
-        animation: spin 2s infinite linear;
-    }
-
-    @keyframes spin {
-        0% {
-            transform: rotate(0deg);
-        }
-        100% {
-            transform: rotate(360deg);
-        }
-    }
-</style>
 <p align="left">
 <a href="https://www.linkedin.com/in/archit-verma-b924a8209/" target="blank"><img class="icon" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritik-kansal" height="30" width="40" /></a>
 <a href="https://www.instagram.com/this.is.archi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ritik.kansal" height="30" width="40" /></a>
