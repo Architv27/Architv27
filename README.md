@@ -30,6 +30,6 @@
 <a href="https://swagger.io/" target="_blank"> <img src="https://raw.githubusercontent.com/swagger-api/swagger.io/wordpress/images/assets/SW-logo-clr.png" alt="swagger" width="100" height="40"/> </a>
 <a href="https://www.nginx.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="40" height="40"/> </a>
 <a href="https://en.wikipedia.org/wiki/X86_assembly_language" target="_blank"> <img src="https://www.vectorlogo.zone/logos/intel/intel-icon.svg" alt="x86" width="40" height="40"/> </a>
-<a href="https://en.wikipedia.org/wiki/WebGL" target="_blank"> <img src="https://www.vectorlogo.zone/logos/webgl/webgl-icon.svg" alt="webgl" width="40" height="40"/> </a>
+<a href="https://en.wikipedia.org/wiki/WebGL" target="_blank"> <img src="new_link" alt="webgl" width="40" height="40"/> </a>
 </p>
 
