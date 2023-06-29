@@ -25,9 +25,11 @@
 <a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://developer.android.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40"/> </a>
-<a href="https://swagger.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/swaggerio/swaggerio-icon.svg" alt="swagger" width="40" height="40"/> </a>
 <!-- Could not find a specific icon for REST APIs -->
 <!-- Could not find a specific icon for x86 Assembly Language -->
-<a href="https://get.webgl.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/webgl/webgl-icon.svg" alt="webgl" width="40" height="40"/> </a>
+<a href="https://swagger.io/" target="_blank"> <img src="https://raw.githubusercontent.com/driftyco/ionic-icon-pack/master/psd/swagger.png" alt="swagger" width="40" height="40"/> </a>
+<a href="https://www.nginx.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="40" height="40"/> </a>
+<a href="https://en.wikipedia.org/wiki/X86_assembly_language" target="_blank"> <img src="https://www.vectorlogo.zone/logos/intel/intel-icon.svg" alt="x86" width="40" height="40"/> </a>
+<a href="https://get.webgl.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/khronos_group/khronos_group-icon.svg" alt="webgl" width="40" height="40"/> </a>
 </p>
 
