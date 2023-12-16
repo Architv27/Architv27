@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Archit Verma</h1>
-<h3 align="center">Software Wizard in making</h3>
+<h3 align="center">Software Engineer in making</h3>
 
 
 - 📫 How to reach me **archit.sfu@gmail.com** or **varchit@sfu.ca**
