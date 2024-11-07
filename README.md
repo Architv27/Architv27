@@ -68,18 +68,18 @@
 
 <h3 align="center">💻 Recent Activity 💻</h3>
 <p align="center">
-    <a href="https://skyline.github.com/Architv27/2024" target="_blank">
-        <img src="https://user-images.githubusercontent.com/99184393/143693393-b99f6c52-fc1d-414e-bf07-6d379ce9a4e9.gif" alt="Archit Verma's GitHub Skyline 2024" width="600" />
+    <a href="https://github.com/Architv27?tab=repositories" target="_blank">
+        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Architv27&theme=github" alt="Archit Verma's Contribution Graph" width="600"/>
     </a>
 </p>
 
 ---
 
-<h3 align="center">🌐 Holopin Badges</h3>
+<h3 align="center">🌐 Custom Badges</h3>
 <p align="center">
-    <a href="https://holopin.io/user/architv27" target="_blank">
-        <img src="https://holopin.me/architv27" alt="Archit's Holopin badges" width="500" />
-    </a>
+    <img src="https://img.shields.io/badge/Badge%201-Active-blue?style=for-the-badge" alt="Custom Badge 1" />
+    <img src="https://img.shields.io/badge/Badge%202-Contributor-brightgreen?style=for-the-badge" alt="Custom Badge 2" />
+    <img src="https://img.shields.io/badge/Badge%203-Open%20Source-orange?style=for-the-badge" alt="Custom Badge 3" />
 </p>
 
 ---
