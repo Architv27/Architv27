@@ -4,7 +4,7 @@
 <p align="center">
     <a href="mailto:archit.sfu@gmail.com"><strong>Contact me</strong></a> |
     <a href="http://archit-v.web.app" target="_blank">My Portfolio</a> |
-    <a href="/Archit_Verma_Resume(6).pdf" download="Archit_Verma_Resume(6).pdf">Download Resume</a>
+    <a href="/Archit Verma Resume Updated (4) (1).pdf" download="Archit Verma Resume Updated (4) (1).pdf">Download Resume</a>
 </p>
 
 ---
